@@ -26,5 +26,5 @@ public class UserDaoImpl extends SqlSessionDaoSupport implements UserDao {
 //		sqlSession.commit();//现在由spring容器管理
 //		sqlSession.close();//现在由spring容器管理
 	}
-
+56666666
 }
